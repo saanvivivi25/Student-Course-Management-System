@@ -46,7 +46,7 @@ A menu-driven Python application that manages students, courses, and enrollments
 
 ## Excel Report
 
-The application generates `student_report.xlsx` containing:
+The application generates `student_course_report.xlsx` containing:
 
 1. Students Sheet
 2. Courses Sheet
